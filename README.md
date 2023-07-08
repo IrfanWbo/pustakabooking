@@ -9,5 +9,5 @@
 <br>
 <br>
 <h2 align='center'>Terima Kasih</h2>
-<h2 align='center'>Desna Andri</h2>
+<h2 align='center'>Muhamad Irfan Asy'Ari Wibowo</h2>
 # pustakabooking
